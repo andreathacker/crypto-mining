@@ -1,0 +1,1 @@
+# ZCash Miner Setup
